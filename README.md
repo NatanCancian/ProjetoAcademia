@@ -1,2 +1,2 @@
 # ProjetoAcademia
-Projeto focado no desenvolvimento de um sistema web de uma academia convencional
+Projeto concluído, desenvolvimento de um sistema web de uma academia de musculação convencional, gerando pdf de treinamentos, gerenciando alunos,avaliações físicicas e etc
